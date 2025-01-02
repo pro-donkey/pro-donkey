@@ -2,8 +2,7 @@
 
 
 
-![Uploading sargun.gif…]()
-
+![sargun](https://github.com/user-attachments/assets/8d647e6e-bff0-4a14-a806-b3a277daeb3a)
 
 
 <h1 align="center">Hi 👋, I'm Programming Donkey</h1>

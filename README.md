@@ -2,7 +2,7 @@
 
 
 
-![sargun](https://github.com/user-attachments/assets/8d647e6e-bff0-4a14-a806-b3a277daeb3a)
+![sargun]([https://github.com/user-attachments/assets/8d647e6e-bff0-4a14-a806-b3a277daeb3a](https://benchada-abdellatif.vercel.app/static/media/giphy.05f035b3a27b38553a6a.gif))
 
 
 <h1 align="center">Hi 👋, I'm Programming Donkey</h1>

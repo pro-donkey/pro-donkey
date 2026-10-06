@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="programming-donkey-banner.gif" alt="Sargun Singh - Programming Donkey Banner" width="100%" />
+  <img src="annimate-it-so-it-looks-cool-and-cozy-dr2jtqtl8t.mp4" alt="Sargun Singh - Programming Donkey Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sargun Singh (pro-donkey)</h1>

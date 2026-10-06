@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sargun Singh (pro-donkey)</h1>
-<h3 align="center">Passionate Data & Artificial Intelligence Engineer 🚀</h3>
-
 <p align="center">
-  Currently pursuing an MS in Data Science at TU Hamburg | Based in Hamburg, Germany
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pro-donkey&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pro-donkey&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pro-donkey&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pro-donkey&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me

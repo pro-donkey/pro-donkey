@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Sargun Singh.png" alt="Sargun Singh - Programming Donkey Banner" width="100%" />
+  <img src="SargunSingh.jpg" alt="Sargun Singh - Programming Donkey Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sargun Singh (pro-donkey)</h1>

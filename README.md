@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="./Resume%20report.gif" alt="Sargun Singh - Programming Donkey Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sargun Singh (pro-donkey)</h1>
 <h3 align="center">Passionate Data & Artificial Intelligence Engineer 🚀</h3>
 
 <p align="center">
   Currently pursuing an MS in Data Science at TU Hamburg | Based in Hamburg, Germany
 </p>
----
 
 ### 👨‍💻 About Me
 
